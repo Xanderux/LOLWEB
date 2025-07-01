@@ -1,0 +1,16 @@
+site_name: LOLWeb – Living off the Legitimate Web
+theme:
+  name: material
+  logo: assets/images/logo.png 
+  favicon: assets/images/logo.png 
+  features:
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+nav:
+  - Home: index.md
+  - Services:
+      - Google Apps Script: services/google_apps_script.md
+      - Google Calendar: services/google_calendar.md
+      - Google Translate: services/google_translate.md
+  - About: about.md
