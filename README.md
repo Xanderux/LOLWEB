@@ -26,18 +26,19 @@ This technique category is inspired by *Living off the Land* (LOTL) but focuses 
 |---------------------|----------------------------------|
 | Google Translate    | Proxy tunneling                  |
 
-
 → Full list: [See all services](services/)
 
 ---
 
 ## 🤝 Contribute
 
-This is a community-friendly project. You can contribute:
+This is a community-driven project. You can contribute:
 
 - New service abuse techniques
 - Links to public research / PoCs
 - Improvements to taxonomy or documentation
+
+Before contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines, templates, and scope.
 
 ---
 
