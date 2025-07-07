@@ -6,7 +6,7 @@ This is a community-friendly project. We welcome contributions including:
 - Links to public research or PoCs  
 - Improvements to the taxonomy or documentation
 
-Before contributing, please read our [CONTRIBUTING.md](https://github.com/Xanderux/LOLWEB/blob/master/CONTRIBUTING.md) for guidelines, templates, and scope.
+Before contributing, please read our [CONTRIBUTING.md](https://github.com/Xanderux/LOLWEB/blob/master/CONTRIBUTING.md) for guidelines, templates, and scope
 
 Feel free to open a pull request on the [LOLWEB repository](https://github.com/Xanderux/LOLWEB/pulls).
 
