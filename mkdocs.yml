@@ -14,4 +14,5 @@ nav:
       - Google Apps Script: services/google_apps_script.md
       - Google Calendar: services/google_calendar.md
       - Google Translate: services/google_translate.md
+      - Cloudflare: services/cloudflare.md
   - About: about.md
