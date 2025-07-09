@@ -30,6 +30,7 @@ This setup leverages **SNI-based virtual hosting** and **HTTP Host headers** to 
 
 - **IP masking via CDN**: The true IP of the backend server remains obscured, making infrastructure takedown and attribution harder.
 - **Rotating domains** while keeping the backend server unchanged and protected via CDN masking.
+- A notable example is the Cloudflare IP [104.21.112[.]1](https://www.virustotal.com/gui/ip-address/104.21.112.1/community), which has been reported by the community for hosting various malicious domains across different campaigns (Clickfix, Ghostspy, Gophish, Mythic, Raptor RAT...).
 
 ---
 
